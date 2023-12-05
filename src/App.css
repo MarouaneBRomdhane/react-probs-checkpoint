@@ -1,0 +1,10 @@
+.Card-style {
+  text-align: center;
+  margin-top: 16px;
+}
+.center-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* 100% of the viewport height */
+}
