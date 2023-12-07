@@ -8,7 +8,7 @@ const PlayerList = (props) => {
         <Card.Img
           variant="top"
           src={props.user.ImageURL}
-          height="300"
+          height="400"
           style={{ objectFit: "cover" }}
         />
         <Card.Body>
