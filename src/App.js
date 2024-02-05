@@ -7,7 +7,7 @@ import Container from "react-bootstrap/Container";
 function App() {
   return (
     <>
-      <Container className="mt-3">
+      <Container className="center-container">
         <Row>
           <Player />
         </Row>

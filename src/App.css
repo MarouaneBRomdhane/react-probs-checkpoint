@@ -6,5 +6,5 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 100vh; /* 100% of the viewport height */
+  height: 150vh; /* Adjust the value as needed */
 }
